@@ -1,0 +1,30 @@
+*{
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}
+.header-row
+{
+    background-color:rgba(21,21,23,.95);
+}
+.navbar
+{
+    font-family:  Nova,helvetica neue,helvetica,arial,sans-serif;
+}
+.navbar-dark .navbar-nav .nav-link
+{
+    color:#fff;
+}
+.dropdown:hover .dropdown-menu
+{
+    display:block;
+    margin-top:0;
+}
+.search-bar
+{
+    position: relative;
+}
+.search-icon
+{
+    position: absolute;
+}
